@@ -1,21 +1,21 @@
 [submodule "RaspberryBcm2835"]
-  path = RaspberryBcm2835
-  url = git@github.com:dalmirdasilva/RaspberryBcm2835.git
+	path = RaspberryBcm2835
+	url = git@github.com:dalmirdasilva/RaspberryBcm2835.git
 [submodule "RaspberryCamera"]
-  path = RaspberryCamera
-  url = git@github.com:dalmirdasilva/RaspberryCamera.git
+	path = RaspberryCamera
+	url = git@github.com:dalmirdasilva/RaspberryCamera.git
 [submodule "RaspberryGpio"]
-  path = RaspberryGpio
-  url = git@github.com:dalmirdasilva/RaspberryGpio.git
+	path = RaspberryGpio
+	url = git@github.com:dalmirdasilva/RaspberryGpio.git
 [submodule "RaspberryIO"]
-  path = RaspberryIO
-  url = git@github.com:dalmirdasilva/RaspberryIO.git
+	path = RaspberryIO
+	url = git@github.com:dalmirdasilva/RaspberryIO.git
 [submodule "RaspberryIOExpander"]
-  path = RaspberryIOExpander
-  url = git@github.com:dalmirdasilva/RaspberryIOExpander.git
+	path = RaspberryIOExpander
+	url = git@github.com:dalmirdasilva/RaspberryIOExpander.git
 [submodule "RaspberryPwm"]
-  path = RaspberryPwm
-  url = git@github.com:dalmirdasilva/RaspberryPwm.git
+	path = RaspberryPwm
+	url = git@github.com:dalmirdasilva/RaspberryPwm
 [submodule "RaspberryWire"]
-  path = RaspberryWire
-  url = git@github.com:dalmirdasilva/RaspberryWire.git
+	path = RaspberryWire
+	url = git@github.com:dalmirdasilva/RaspberryWire.git
